@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+<a href="https://vue-card-game.netlify.app/">Live Demo</a>
+
 ## Build Setup
 
 ``` bash
